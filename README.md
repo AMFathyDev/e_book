@@ -24,7 +24,7 @@ e_book is a modern e‑book reader designed to deliver a smooth and interactive 
 ---
 ## 📸 Demo Preview
 
-![image alt](https://github.com/AMFathyDev/e_book/blob/91b39eb6c2bccc3a329a7b1307df00d364535098/e_book_demo_screens.png.png)
+![image alt](https://github.com/AMFathyDev/e_book/blob/1ae419aa574f47bb7db15708b41141a6def6fecd/e_book_demo_screens.png.png)
 
 > A modern platform to explore, read, and save your favorite books.  
 > Search titles, track your reading, and build your personal library—all in one place.
