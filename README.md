@@ -31,13 +31,13 @@ e_book is a modern e‑book reader designed to deliver a smooth and interactive 
 
 ## 🎥 Demo Video
 You can watch a demo of the *e_book app* here:  
-[▶ Watch Demo](https://drive.google.com/file/d/1F5d_E5D4BA7l7aTUY3kCbPR1GBlX8Ju2/view?usp=drive_link)
+[▶ Watch Demo](https://drive.google.com/file/d/10UZxU01i3Ek-qJ0ceVYSSOsfGWAkyEm9/view?usp=drive_link)
 
 ---
 
 ## 📦 Download APK
 Try out the app by downloading the APK:  
-[⬇ Download APK](https://drive.google.com/file/d/1yO0ZLpP3SMsZt0toevwkWT0gDpSGGIb5/view?usp=drive_link)
+[⬇ Download APK](https://drive.google.com/file/d/12IJs8TY22RdScD1lMawQNHG2CW1PAKVY/view?usp=drive_link)
 
 
 ## 🛠 Tech Stack & Packages
